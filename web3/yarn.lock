@@ -337,11 +337,6 @@
     "mcl-wasm" "^0.7.1"
     "rustbn.js" "~0.2.0"
 
-"@nomicfoundation/solidity-analyzer-win32-x64-msvc@0.1.0":
-  "integrity" "sha512-xCuybjY0sLJQnJhupiFAXaek2EqF0AP0eBjgzaalPXSNvCEN6ZYHvUzdA50ENDVeSYFXcUsYf3+FsD3XKaeptA=="
-  "resolved" "https://registry.npmjs.org/@nomicfoundation/solidity-analyzer-win32-x64-msvc/-/solidity-analyzer-win32-x64-msvc-0.1.0.tgz"
-  "version" "0.1.0"
-
 "@nomicfoundation/solidity-analyzer@^0.1.0":
   "integrity" "sha512-xGWAiVCGOycvGiP/qrlf9f9eOn7fpNbyJygcB0P21a1MDuVPlKt0Srp7rvtBEutYQ48ouYnRXm33zlRnlTOPHg=="
   "resolved" "https://registry.npmjs.org/@nomicfoundation/solidity-analyzer/-/solidity-analyzer-0.1.0.tgz"
@@ -1185,10 +1180,10 @@
   "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz"
   "version" "4.2.10"
 
-"hardhat@^2.10.1":
-  "integrity" "sha512-qxOvRNgQnLqRFssn5f8VP5KN3caytShU0HNeKxmPVK1Ix/0xDVhIC7JOLxG69DjOihUfmxmjqspsHbZvFj6EhQ=="
-  "resolved" "https://registry.npmjs.org/hardhat/-/hardhat-2.12.3.tgz"
-  "version" "2.12.3"
+"hardhat@^2.13.0":
+  "integrity" "sha512-ZlzBOLML1QGlm6JWyVAG8lVTEAoOaVm1in/RU2zoGAnYEoD1Rp4T+ZMvrLNhHaaeS9hfjJ1gJUBfiDr4cx+htQ=="
+  "resolved" "https://registry.npmjs.org/hardhat/-/hardhat-2.13.0.tgz"
+  "version" "2.13.0"
   dependencies:
     "@ethersproject/abi" "^5.1.2"
     "@metamask/eth-sig-util" "^4.0.0"
@@ -1237,7 +1232,7 @@
     "source-map-support" "^0.5.13"
     "stacktrace-parser" "^0.1.10"
     "tsort" "0.0.1"
-    "undici" "^5.4.0"
+    "undici" "^5.14.0"
     "uuid" "^8.3.2"
     "ws" "^7.4.6"
 
@@ -2045,10 +2040,10 @@
   "resolved" "https://registry.npmjs.org/type-fest/-/type-fest-0.7.1.tgz"
   "version" "0.7.1"
 
-"undici@^5.4.0":
-  "integrity" "sha512-UDZKtwb2k7KRsK4SdXWG7ErXiL7yTGgLWvk2AXO1JMjgjh404nFo6tWSCM2xMpJwMPx3J8i/vfqEh1zOqvj82Q=="
-  "resolved" "https://registry.npmjs.org/undici/-/undici-5.13.0.tgz"
-  "version" "5.13.0"
+"undici@^5.14.0":
+  "integrity" "sha512-HOjK8l6a57b2ZGXOcUsI5NLfoTrfmbOl90ixJDl0AEFG4wgHNDQxtZy15/ZQp7HhjkpaGlp/eneMgtsu1dIlUA=="
+  "resolved" "https://registry.npmjs.org/undici/-/undici-5.21.0.tgz"
+  "version" "5.21.0"
   dependencies:
     "busboy" "^1.6.0"
 
